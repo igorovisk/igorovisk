@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-#### 🌱 I’m currently learning HTML, CSS and JAVA.
+### 🌱 I’m currently learning HTML, CSS and JAVA.
 
-#### 📫 How to reach me: 
+### 📫 How to reach me: 
 https://www.instagram.com/igor_acb/
 https://www.linkedin.com/in/igor-augusto-corso-borgio-b5b45695/
 
