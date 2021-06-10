@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**igorovisk/igorovisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🌱 I’m currently learning HTML, CSS and JAVA.
 
-Here are some ideas to get you started:
+## 📫 How to reach me: 
+https://www.instagram.com/igor_acb/
+https://www.linkedin.com/in/igor-augusto-corso-borgio-b5b45695/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Fun fact: 
+--> I was a lawyer before starting this journey
+
+
+Atualmente procuro uma oportunidade de estágio, mesmo que seja trabalho voluntário, pois quero muito aprender o máximo possível para me desenvolver na área.
