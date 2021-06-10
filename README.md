@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🌱 I’m currently learning HTML, CSS and JAVA.
+## 🌱 I’m currently learning HTML, CSS and JAVA.
 
 ### 📫 How to reach me: 
 https://www.instagram.com/igor_acb/  
