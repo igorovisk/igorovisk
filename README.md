@@ -11,4 +11,4 @@ https://www.linkedin.com/in/igor-augusto-corso-borgio-b5b45695/
 --> I was a lawyer before starting this journey
 
 🇧🇷  
-#####Atualmente procuro uma oportunidade de estágio, mesmo que seja trabalho voluntário, pois quero muito aprender o máximo possível para me desenvolver na área.
+##### Atualmente procuro uma oportunidade de estágio, mesmo que seja trabalho voluntário, pois quero muito aprender o máximo possível para me desenvolver na área.
