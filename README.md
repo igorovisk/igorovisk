@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello folks! 👋
 
 ### 🌱 I’m currently learning HTML, CSS and JAVA ☕.
 
