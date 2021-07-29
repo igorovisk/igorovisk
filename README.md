@@ -1,6 +1,6 @@
 # Hello folks! 👋
 
-### 🌱 I’m currently learning HTML, CSS and JAVA ☕.
+### 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and JAVA ☕.
 
 ### 📫 How to reach me: 
 
