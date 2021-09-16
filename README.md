@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me: 
 
-https://www.linkedin.com/in/igor-augusto-corso-borgio-b5b45695/
+www.linkedin.com/in/igor-augusto-corso-borgio
 
 
 🇧🇷  
