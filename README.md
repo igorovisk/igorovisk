@@ -1,6 +1,6 @@
 # Hello folks! 👋
 
-### 🌱 I’m currently learning HTML, CSS, JAVASCRIPT (VANILLA, NODEJS & REACTJS).
+### 🌱 NODE & REACT.
 
 ### 📫 How to reach me: 
 
