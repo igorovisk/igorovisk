@@ -9,6 +9,8 @@
 
 www.linkedin.com/in/igor-augusto-corso-borgio
 
+####Ps: My contributions table is bugged :(
+
 
 
 
